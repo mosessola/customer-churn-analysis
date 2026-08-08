@@ -234,7 +234,7 @@ customer-churn-analysis/
 │   └── Churn_Visualizations_Workbook (1)
 │
 ├── report/
-│   └── Customer_Churn_Case_Study.docx
+│   └── Executive_report.docx
 │
 └── README.md
 ```
