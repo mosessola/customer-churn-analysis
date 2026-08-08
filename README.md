@@ -55,8 +55,6 @@ The dataset contains **7,043 customer records** and **21 variables** covering cu
 
 
   * Data visualization
-  * Interactive dashboard
-  * KPI reporting
   * Customer churn analysis
 
 * **GitHub**
@@ -215,21 +213,7 @@ Develop targeted retention campaigns for new month-to-month customers, particula
 
 ---
 
-## 📊  Dashboard
 
-The dashboard provides an interactive view of:
-
-* Customer and churn KPIs
-* Churn by contract type
-* Churn by tenure
-* Churn by payment method
-* Churn by internet service
-* Churn by demographic characteristics
-* Churn by subscribed services
-* High-risk customer segments
-* Key retention insights
-
-The dashboard is designed to help stakeholders quickly understand **where churn is concentrated and which customer groups should receive greater retention attention.**
 
 ---
 
@@ -250,7 +234,7 @@ customer-churn-analysis/
 │   └── Churn_Visualizations_Workbook (1)
 │
 ├── report/
-│   └── Customer_Churn_Case_Study.pdf
+│   └── Customer_Churn_Case_Study.csv
 │
 └── README.md
 ```
@@ -289,4 +273,4 @@ Data Analyst | Statistics Student | Analyst Lab Africa Intern
 
 ### Skills Demonstrated
 
-`Python` `Pandas` `Data Cleaning` `Exploratory Data Analysis` `Customer Segmentation` `Power BI` `Data Visualization` `Business Intelligence` `Data Storytelling`
+`Python` `Pandas` `Data Cleaning` `Exploratory Data Analysis` `Customer Segmentation`  `Data Visualization` `Business Intelligence` `Data Storytelling`
