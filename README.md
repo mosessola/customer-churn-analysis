@@ -246,8 +246,8 @@ customer-churn-analysis/
 │   ├── cleaning.py
 │   └── analysis.py
 │
-├── dashboard/
-│   └── Customer_Churn_Dashboard.pbix
+├── Visuals/
+│   └── Churn_Visualizations_Workbook (1)
 │
 ├── report/
 │   └── Customer_Churn_Case_Study.pdf
