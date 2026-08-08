@@ -226,9 +226,9 @@ customer-churn-analysis/
 │   └── Lab_cleaned.csv
 │
 ├── scripts/
-│   ├── inspection.py
-│   ├── cleaning.py
-│   └── analysis.py
+│   ├── inspection.ipynb
+│   ├── cleaning.ipynb
+│   └── analysis.ipynb
 │
 ├── Visuals/
 │   └── Churn_Visualizations_Workbook (1)
